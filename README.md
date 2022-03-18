@@ -7,4 +7,4 @@ This was done by chaning the entire layout of the buttons and the textview.
 <img src="gifs/vertical_layout.gif" width="300"/>
 
 ## Landscape Orientation
-<img src="gifs/horizontal_layout.gif" width="400"/>
+<img src="gifs/horizontal_layout.gif" width="600"/>
