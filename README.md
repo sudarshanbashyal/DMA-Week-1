@@ -3,6 +3,8 @@
 The coding challenge for the first week was to make some edits to the Week - 1 task so that the application looked good in both horizontal and vertical orientation.
 This was done by chaning the entire layout of the buttons and the textview.
 
+This branch has also been merged with the master branch.
+
 ## Portrait Orientation
 <img src="gifs/vertical_layout.gif" width="300"/>
 
